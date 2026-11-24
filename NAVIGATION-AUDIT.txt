@@ -1,0 +1,9 @@
+404.html: 28 enlaces revisados
+index.html: 40 enlaces revisados
+privacidad.html: 28 enlaces revisados
+proposito.html: 29 enlaces revisados
+terminos.html: 28 enlaces revisados
+unete.html: 31 enlaces revisados
+union.html: 29 enlaces revisados
+
+RESULTADO: sin enlaces internos rotos.
